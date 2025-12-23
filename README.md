@@ -32,7 +32,7 @@ A real-time computer vision application that creates stylized clones of yourself
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tubakhxn/MirrorCloneFX.git
+   git clone https://github.com/sahilpatel318/MirrorCloneFX.git
    cd MirrorCloneFX
    ```
 
@@ -254,6 +254,7 @@ If you find this project useful, please consider giving it a star on GitHub!
 - **GitHub**: [Sahil Patel](https://github.com/sahilpatel318)
 - **Issues**: [Report bugs or request features](https://github.com/sahilpatel318/MirrorCloneFX/issues)
 - **Discussions**: [Community discussions](https://github.com/Sahilpatel318/MirrorCloneFX/discussions)
+
 
 
 
