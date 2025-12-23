@@ -251,8 +251,9 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 ## Connect
 
-- **GitHub**: [tubakhxn](https://github.com/sahilpatel318)
+- **GitHub**: [Sahil Patel](https://github.com/sahilpatel318)
 - **Issues**: [Report bugs or request features](https://github.com/sahilpatel318/MirrorCloneFX/issues)
 - **Discussions**: [Community discussions](https://github.com/Sahilpatel318/MirrorCloneFX/discussions)
+
 
 
