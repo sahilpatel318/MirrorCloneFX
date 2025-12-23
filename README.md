@@ -12,9 +12,6 @@ A real-time computer vision application that creates stylized clones of yourself
   - **ASCII**: Text character art using Unicode block characters
   - **Particles**: Dynamic swirling particles that follow your movement with physics
 
-## Hand Gestures
-<img width="1583" height="903" alt="image" src="https://github.com/user-attachments/assets/c4b681a7-b807-4e5e-8e99-959160887e64" />
-<img width="1578" height="932" alt="image" src="https://github.com/user-attachments/assets/0f2ac1b9-3b22-4860-b0b6-24117e935a0e" />
 
 
 | Gesture | Effect | Description |
@@ -257,3 +254,4 @@ If you find this project useful, please consider giving it a star on GitHub!
 - **GitHub**: [tubakhxn](https://github.com/tubakhxn)
 - **Issues**: [Report bugs or request features](https://github.com/tubakhxn/MirrorCloneFX/issues)
 - **Discussions**: [Community discussions](https://github.com/tubakhxn/MirrorCloneFX/discussions)
+
